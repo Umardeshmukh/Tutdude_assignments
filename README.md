@@ -1,6 +1,6 @@
 
 Vercel : https://tutdudeassignment.vercel.app/
-
+Netlify: https://cozy-bienenstitch-55b9dc.netlify.app/
 
 
 # React + Vite
